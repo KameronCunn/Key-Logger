@@ -1,4 +1,4 @@
-# PROJECTNAME
+# Key Logger
 
 ## Objective
 [Brief Objective - Remove this afterwards]
